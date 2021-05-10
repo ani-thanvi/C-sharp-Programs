@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial.csproj", "{355015F8-B00D-4D41-A76F-4489C2865224}"
+Project("{-}") = "Factorial", "Factorial\Factorial.csproj", "{-}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{355015F8-B00D-4D41-A76F-4489C2865224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{355015F8-B00D-4D41-A76F-4489C2865224}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{355015F8-B00D-4D41-A76F-4489C2865224}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{355015F8-B00D-4D41-A76F-4489C2865224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{-}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{-}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{-}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{-}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {67B83A34-31B0-4F1D-8494-5F9F75684CC0}
+		SolutionGuid = {-}
 	EndGlobalSection
 EndGlobal
