@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\Swapping\Swapping\bin\Debug\netcoreapp3.1\Swapping.exe
+C:\Users\acer\source\repos\Swapping\Swapping\bin\Debug\netcoreapp3.1\Swapping.deps.json
+C:\Users\acer\source\repos\Swapping\Swapping\bin\Debug\netcoreapp3.1\Swapping.runtimeconfig.json
+C:\Users\acer\source\repos\Swapping\Swapping\bin\Debug\netcoreapp3.1\Swapping.runtimeconfig.dev.json
+C:\Users\acer\source\repos\Swapping\Swapping\bin\Debug\netcoreapp3.1\Swapping.dll
+C:\Users\acer\source\repos\Swapping\Swapping\bin\Debug\netcoreapp3.1\Swapping.pdb
+C:\Users\acer\source\repos\Swapping\Swapping\obj\Debug\netcoreapp3.1\Swapping.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\Swapping\Swapping\obj\Debug\netcoreapp3.1\Swapping.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\Swapping\Swapping\obj\Debug\netcoreapp3.1\Swapping.AssemblyInfo.cs
+C:\Users\acer\source\repos\Swapping\Swapping\obj\Debug\netcoreapp3.1\Swapping.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Swapping\Swapping\obj\Debug\netcoreapp3.1\Swapping.dll
+C:\Users\acer\source\repos\Swapping\Swapping\obj\Debug\netcoreapp3.1\Swapping.pdb
+C:\Users\acer\source\repos\Swapping\Swapping\obj\Debug\netcoreapp3.1\Swapping.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\acer\source\repos\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.AssemblyInfo.cs
+C:\Users\acer\source\repos\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.exe
+C:\Users\acer\source\repos\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.deps.json
+C:\Users\acer\source\repos\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.runtimeconfig.json
+C:\Users\acer\source\repos\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.runtimeconfig.dev.json
+C:\Users\acer\source\repos\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.dll
+C:\Users\acer\source\repos\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.pdb
+C:\Users\acer\source\repos\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.dll
+C:\Users\acer\source\repos\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.pdb
+C:\Users\acer\source\repos\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.genruntimeconfig.cache
